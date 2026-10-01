@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shalvikumari17/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Shalvikumari17/LeetCode/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Shalvikumari17/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Shalvikumari17/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shalvikumari17/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Shalvikumari17/LeetCode/tree/master/0071-simplify-path) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shalvikumari17/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Shalvikumari17/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shalvikumari17/LeetCode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shalvikumari17/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shalvikumari17/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shalvikumari17/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
